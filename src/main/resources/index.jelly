@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    Allows to skip tag rebuild on cron trigger.
+</div>
