@@ -8,6 +8,7 @@
         <relativePath />
     </parent>
     <artifactId>skip-cron-rebuild</artifactId>
+    <groupId>io.jenkins.plugins</groupId>
     <version>1.0</version>
     <packaging>hpi</packaging>
     <properties>
