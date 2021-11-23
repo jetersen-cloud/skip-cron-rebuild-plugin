@@ -9,7 +9,7 @@
     </parent>
     <artifactId>skip-cron-rebuild</artifactId>
     <groupId>io.jenkins.plugins</groupId>
-    <version>1.0</version>
+    <version>${revision}${changelist}</version>
     <packaging>hpi</packaging>
     <properties>
         <revision>1.0</revision>
