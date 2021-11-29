@@ -13,6 +13,7 @@ public class SkipCronRebuildTest {
 
     @Test
     public void testConfig() throws Exception {
+        // a sample empty test
         assertTrue(true);
     }
 }
