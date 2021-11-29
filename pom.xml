@@ -63,7 +63,7 @@
         </license>
     </licenses>
 
-    <url>https://wiki.jenkins-ci.org/display/JENKINS/Skip+Cron+Rebuild</url>
+    <url>https://github.com/jenkinsci/skip-cron-rebuild-plugin</url>
 
     <developers>
         <developer>
