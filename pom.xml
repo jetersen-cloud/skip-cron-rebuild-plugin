@@ -63,7 +63,7 @@
         </license>
     </licenses>
 
-    <url>https://github.com/jenkinsci/skip-cron-rebuild</url>
+    <url>https://github.com/jenkinsci/skip-cron-rebuild-plugin</url>
 
     <developers>
         <developer>
