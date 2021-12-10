@@ -30,6 +30,10 @@ public class SkipCronRebuild extends AbstractFolderProperty<AbstractFolder<?>>  
     public SkipCronRebuild() {
     }
 
+    public boolean isSkipTagRebuild() {
+        return skipTagRebuild;
+    }
+
     @DataBoundSetter
     public void setSkipTagRebuild(boolean skipTagRebuild) {
         this.skipTagRebuild = skipTagRebuild;
